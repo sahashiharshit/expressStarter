@@ -1,0 +1,23 @@
+[
+  {
+    "id": "12434",
+    "title": "A Book",
+    "imageUrl": "https://as1.ftcdn.net/v2/jpg/02/16/67/50/1000_F_216675048_39petQYPtJ9cv5ycUg1LOmCtcNCoqtdk.jpg",
+    "description": "This is an awesome book!",
+    "price": "19"
+  },
+  {
+    "title": "Another Book",
+    "imageUrl": "https://as1.ftcdn.net/v2/jpg/02/16/67/50/1000_F_216675048_39petQYPtJ9cv5ycUg1LOmCtcNCoqtdk.jpg",
+    "description": "Javascript for babies.",
+    "price": "399",
+    "id": "0.10245705513235825"
+  },
+  {
+    "title": "awd",
+    "imageUrl": "https://as1.ftcdn.net/v2/jpg/02/16/67/50/1000_F_216675048_39petQYPtJ9cv5ycUg1LOmCtcNCoqtdk.jpg",
+    "description": "awdawd",
+    "price": "23",
+    "id": "0.4648854048528077"
+  }
+]
