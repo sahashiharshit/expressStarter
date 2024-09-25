@@ -1,0 +1,21 @@
+
+<%- include('includes/head.ejs') %>
+    <link rel="stylesheet" href="/css/main.css">
+  </head>
+
+  <body>
+    <%- include('includes/navigation.ejs') %>
+    <main>
+      <form action="/success" method="post" class="form-contact">
+        <div class="form-control">
+          <label for="name">Name</label>
+          <input type="text" name="name" id="name" />
+        </div>
+        <div class="form-control">
+          <label for="email">Email</label>
+          <input type="email" name="email" id="email" />
+        </div>
+        <button class="btn" type="submit">Contact</button>
+      </form>
+    </main>
+    <%- include('includes/end.ejs') %>
