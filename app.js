@@ -1,9 +1,10 @@
 const path = require('path');
-
+const db = require('./util/database');
 const express = require('express');
 const bodyParser = require('body-parser');
 
 const errorController = require('./controllers/error');
+
 
 const app = express();
 
